@@ -18,7 +18,7 @@ Czwartek, 12:15:
 1. Matyjas Sebastian
 1. [Mielewczyk Łukasz](https://github.com/romety2/asi)
 1. [Pałkowska Klaudia](https://github.com/kpalkowska/architektura)
-1. Rostek Karolina
+1. [Rostek Karolina](https://github.com/Carolsien/ArchitekturaSerwisowInternetowych)
 1. [Stypa Aneta](https://github.com/aneta-7/architektura)
 1. [Tarnowski Łukasz](https://github.com/ltarnowski1/Architektura-serwisow-internetowych)
 1. Walczak Marta
