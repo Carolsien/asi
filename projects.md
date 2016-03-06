@@ -46,7 +46,7 @@ Lista:
 1. Pałkowska Klaudia
 1. Popko Adrianna
 1. Posłuszny Maciej
-1. Rostek Karolina
+1. [Rostek Karolina](https://github.com/Carolsien/ArchitekturaSerwisowInternetowych)
 1. Rzepecki Wojciech
 1. Rzeppa Sławomir
 1. Sadowski Patryk
